@@ -1,0 +1,5 @@
+#include "stdio.h"
+int main(void)
+{
+  printf("不知道为什么，访问github网络很卡，emm");
+}
